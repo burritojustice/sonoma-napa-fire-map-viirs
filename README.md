@@ -1,5 +1,7 @@
 # sonoma-napa-fire-map-viirs
 
+![](https://s3.amazonaws.com/mapzen-assets/resources/viirs-375-napa/sonoma_napa_fire_map.png)
+
 ## data
 
 Fire data (375m resolution) via NASA/NOAA VIIRS (Suomi polar orbit)
