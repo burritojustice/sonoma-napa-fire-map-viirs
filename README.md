@@ -6,7 +6,7 @@
 
 US (Conterminous and Hawaii) Fire data (375m resolution) via NASA/NOAA VIIRS (Suomi polar orbit).
 
-Satellite passes are every ~12 hours (typically 1-3 AM & 1-3 PM for California), data available for download a few hours later. 
+Satellite passes are every ~12 hours (typically 1-3 AM & 1-3 PM for California), data usually available within 3 hours of that. 
 
 https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data
 
