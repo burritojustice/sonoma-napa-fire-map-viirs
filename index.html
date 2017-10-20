@@ -27,6 +27,11 @@
         map: map
       })
       L.control.scale().addTo(map);
+      var geocoder = L.Mapzen.geocoder('mapzen-ojDtb4R', geocoderOptions);
+      var geocoderOptions = {
+        position: 'bottomleft'
+      };
+      geocoder.addTo(map);
       L.Mapzen.bug({
         name: 'Sonoma & Napa VIIRS fire map',
         link: 'https://github.com/burritojustice/sonoma-napa-fire-map-viirs',
